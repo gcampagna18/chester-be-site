@@ -1,3 +1,8 @@
 h1 {
     color: red;
+}.hero {
+    height: 70vh;
+    background-image: url(images/cb_j.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
 }
