@@ -2,7 +2,7 @@ h1 {
     color: red;
 }.hero {
     height: 70vh;
-    background-image: url(images/cb_j.jpeg);
+    background-image: url(images/cb_hero-image.png);
     background-repeat: no-repeat;
     background-size:cover;
 }
