@@ -97,6 +97,7 @@ li a:hover {
     color: #ffffff;
     display: flex;
     justify-content: center;
+    margin-bottom: 0px;
 }
 .card1 {
     width: 384px;
@@ -112,7 +113,7 @@ li a:hover {
    border: none;
    display: block;
    margin: 0 auto;
-   border: 2px solid #ffffff;
+   border: 1px solid #ffffff;
    border-radius: 2px;
 }
 .card-button a {
@@ -129,7 +130,32 @@ li a:hover {
 
 .card-button:hover {
     background: #40045F;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     border-radius: 2px;
     color: #ffffff;
+}
+
+
+/*Music Timeline*/
+.section-title2 h1 {
+    background: #0D3267;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: 500;
+    margin: 0 auto;
+}
+.videocard1 {
+    background: #0D3267;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.ytvideo {
+    padding-top: 55px;
+}
+.textcard {
+    width: 200px;
+    padding-top: 55px;
 }
