@@ -8,6 +8,10 @@ body {
      font-family: 'Montserrat', sans-serif;
 }
 
+p {
+    line-height: 1.3rem;
+}
+
 /*navigation*/
 .nav {
     background-color: #212121;
@@ -274,9 +278,78 @@ li a:hover {
     justify-content: center;
 }
 .legacy1 img {
-    margin-top: 20px;
+    margin-top: 25px;
 }
 .legacy1text {
     width: 422px;
     margin-right: 42px;
+    margin-top: 5px;
+}
+.legacy2 {
+    background: #0D3267;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.legacy img {
+    margin-top: 30px;
+}
+.legacy2 p {
+    width: 422px;
+    margin-left: 42px;
+    margin-top: 30px;
+}
+.legacy3 {
+    background: #0D3267;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.resources {
+    width: 568px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+/*References*/
+.section-title5 {
+    background: #40045F;;
+    text-align: center;
+    color: #ffffff;
+    padding: 25px
+}
+.section-title5 h1 {
+    font-weight: 500;
+    margin: 0 auto;
+}
+.references {
+    background: #40045F; 
+    color: #ffffff;
+    width: 700px;
+    margin: 0 auto;
+
+}
+.facebookmess {
+    color: #ffffff;
+    /*text-decoration: none;*/
+}
+.facebookmess:hover {
+    color: #7eb0f5;
+}
+.int-hotline {
+    color: #ffffff;;
+    /*text-decoration: none;*/
+}
+.int-hotline:hover {
+    color: #7eb0f5;
+}
+.makechester {
+    /*color: #8eb4e9;*/
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.makechester:hover {
+    text-decoration: underline;
 }
