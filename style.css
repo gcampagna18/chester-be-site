@@ -49,7 +49,7 @@ li a:hover {
     background-size:cover;
 }
 .herotext {
-  margin-left: 150px;
+  margin-left: 225px;
   margin-top: 145px;
   color: #ffffff; 
   position: absolute;
@@ -307,30 +307,12 @@ li a:hover {
 }
 .resources {
     width: 568px;
+    background: #0B264D;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 25px;
     border: solid #ffffff 1px;
     margin-top: 70px;
-}
-
-/*References*/
-.section-title5 {
-    background: #40045F;;
-    text-align: center;
-    color: #ffffff;
-    padding: 25px
-}
-.section-title5 h1 {
-    font-weight: 500;
-    margin: 0 auto;
-}
-.references {
-    background: #40045F; 
-    color: #ffffff;
-    width: 700px;
-    margin: 0 auto;
-
 }
 .facebookmess {
     color: #ffffff;
@@ -354,4 +336,46 @@ li a:hover {
 
 .makechester:hover {
     text-decoration: underline;
+}
+
+/*References*/
+.section-title5 {
+    background: #40045F;;
+    text-align: center;
+    color: #ffffff;
+    padding: 25px
+}
+.section-title5 h1 {
+    font-weight: 500;
+    margin: 0 auto;
+}
+.references {
+    background: #40045F; 
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 0 auto;
+}
+.ref-card {
+    width: 422px;
+    padding: 2rem;
+    margin-top: 25px;
+    background-color: #320748;
+}
+.references h2 {
+    font-weight: 500;
+}
+.references ul {
+    margin: 0;
+    padding: 0;
+}
+.references ul li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.references li a {
+    padding: 0;
 }
