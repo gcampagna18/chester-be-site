@@ -379,3 +379,10 @@ li a:hover {
 .references li a {
     padding: 0;
 }
+
+
+footer {
+    background: #292929;
+    padding: 15px;
+    color: #ffffff;
+}
