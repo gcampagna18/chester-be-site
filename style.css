@@ -337,6 +337,10 @@ li a:hover {
     margin-top: 30px;
 }
 
+blockquote {
+    font-weight: 500;
+    color: #8cb7f4;
+}
 .legacy3 {
     background: #0D3267;
     color: #ffffff;
@@ -356,25 +360,21 @@ li a:hover {
 
 .facebookmess {
     color: #ffffff;
-    /*text-decoration: none;*/
 }
 
 .facebookmess:hover {
-    color: #7eb0f5;
+    color: #8cb7f4;
 }
 
 .int-hotline {
     color: #ffffff;
-    ;
-    /*text-decoration: none;*/
 }
 
 .int-hotline:hover {
-    color: #7eb0f5;
+    color: #8cb7f4;
 }
 
 .makechester {
-    /*color: #8eb4e9;*/
     text-decoration: none;
     color: #ffffff;
 }
@@ -450,5 +450,8 @@ footer h4 {
 
 footer img {
     padding-right: 20px;
+}
+
+footer a {
     text-decoration: none;
 }
