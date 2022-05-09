@@ -46,7 +46,7 @@ li a:hover {
 
 /*hero image*/
 .hero {
-    height: 550px;
+    height: 35em;
     background-image: url(images/cb_hero-image.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -279,7 +279,7 @@ li a:hover {
 
 /*Death*/
 .death {
-    height: 650px;
+    height: 40em;
     background-image: url(images/cb_oml-live2017.png);
     background-repeat: no-repeat;
     background-size: cover;
