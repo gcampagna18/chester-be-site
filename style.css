@@ -47,7 +47,7 @@ li a:hover {
 
 /*hero image*/
 .hero {
-    height: 45em;
+    height: 48em;
     background-image: url(images/cb_hero-image.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -55,7 +55,7 @@ li a:hover {
 
 .herotext {
     margin-left: 225px;
-    margin-top: 180px;
+    margin-top: 200px;
     color: #ffffff;
     position: absolute;
     display: flex;
